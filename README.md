@@ -1,2 +1,1 @@
-# Amazon-Competitor-Intelligence
-Siyu Wu, Gary Liu
+# amazon-competitor-analysis
